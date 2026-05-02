@@ -1,18 +1,20 @@
-# Hey, I'm Vivek Ediga 👋
+# Hey, I'm Vivek Ediga 
 
-🎓 B.Tech CSE @ IIIT Kottayam  
-🤖 Passionate about AI & building real-world tools  
-🕷️ @Sparrowspidey  
+ B.Tech CSE @ IIIT Kottayam  
+ Passionate about AI & building real-world tools  
+ @Sparrowspidey  
 
 ## 🔗 Portfolio → [sparrowspidey.github.io](https://sparrowspidey.github.io)
 
 ## 🛠️ Projects
-- 🌟 College AI Assistant
-- ⚡ Sermon Spitter (in progress)
-- 🏆 Tournament Organizer
-- 🏛️ Jail Management System
-- 🎵 Music Trend Analyzer
+-  College AI Assistant
+-  Sermon Spitter (in progress)
+-  Tournament Organizer
+-  Jail Management System
+-  Music Trend Analyzer
 
-## 📫 Reach me
-- 📧 sparrowspidey@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/sparrowspidey)
+##  Reach me
+- vivek772256l@gmail.com
+-  sparrowspidey@gmail.com
+-  [LinkedIn](https://linkedin.com/in/sparrowspidey)
+- .[Mobile No](7780659384)
